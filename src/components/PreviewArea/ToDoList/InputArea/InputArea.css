@@ -1,0 +1,33 @@
+.InputArea {
+    display: flex;
+    gap: 10px;
+    width: calc(100% - 40px);
+    
+    justify-content: space-between;
+}
+
+.InputField {
+    border-radius: 0% !important;
+    border: 2px solid #023047 !important;
+
+}
+.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root{
+    border-radius: 0% !important;
+    border: 0px !important;
+    font-family: "Montserrat", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    color: #2b2d42 !important;
+}
+.Button {
+    background-color: #ffb703 !important;
+    border-radius: 0% !important;
+    padding: 6px !important;
+}
+
+.PlusIcon {
+    color: #023047 !important;
+    font-weight: 700;
+    font-size: medium;
+}
